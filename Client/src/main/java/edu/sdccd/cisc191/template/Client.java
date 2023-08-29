@@ -15,7 +15,7 @@ import java.io.*;
  * the server program, DateServer, which sends the current
  * date and time on the computer where the server is running.
  */
-
+// comment for test
 public class Client {
     private Socket clientSocket;
     private PrintWriter out;
